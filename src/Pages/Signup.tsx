@@ -7,7 +7,7 @@ function Signup() {
     <>
       {" "}
       <Navbar />
-<div className="container-s background-image">
+<div className="container-s background-image" style={{ backgroundImage: 'url("./images/Signup.jpg")' }} >
     <div className="box"> 
       <form className="form-container">
       <div className="mb-3">
